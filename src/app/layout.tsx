@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: "Heyscar Recode",
     images: [
       {
-        url: "/og-image.png", // asegurate que esté en public/
+        url: "/logo.png", // asegurate que esté en public/
         width: 1200,
         height: 630,
         alt: "Heyscar Recode",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Heyscar Recode",
     description: "Desarrollo web premium hecho a medida.",
-    images: ["/og-image.png"],
+    images: ["/logo.png"],
     creator: "@heyscar", // si tenés Twitter
   },
   metadataBase: new URL("https://recode.heyscar.dev"),
