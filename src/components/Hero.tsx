@@ -59,7 +59,7 @@ const Hero = () => {
             {" "}
             precisión milimétrica
           </span>{" "}
-          y tecnolo
+          y tecnologías de última generación
         </p>
         <p
           className="text-md text-gray-400 uppercase tracking-widest mb-4 animate-fade-in"
